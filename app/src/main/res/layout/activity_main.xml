@@ -7,6 +7,6 @@
 
     <TextView android:text="hello alexa" android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="60dp" />
+        android:textSize="200dp" />
 
 </RelativeLayout>
